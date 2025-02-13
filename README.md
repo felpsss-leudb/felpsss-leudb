@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Me chamo Felipe Silva</h1>
 
-<h4 align="left">Desenvolvedor Web Full-Stack em desenvolvimento. Atualmente cursando Informática para Internet no Instituto Técnico de Barueri.<br><br>Busco me tornar um programador Full-Stack e venho construindo um repertório de linguagens como: HTML, CSS e JavaScript. Pretendo, no futuro, aprender as linguagens PHP, React e Node.Js</h4>
+<h4 align="left">Desenvolvedor Web Full-Stack em formação. Atualmente cursando Informática para Internet no Instituto Técnico de Barueri.<br><br>Busco me tornar um programador Full-Stack e venho construindo um repertório de linguagens como: HTML, CSS e JavaScript. Pretendo, no futuro, aprender as linguagens PHP, React e Node.Js</h4>
 
 <h2></h2>
 
