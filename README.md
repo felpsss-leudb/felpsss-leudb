@@ -5,6 +5,13 @@
 <h2></h2>
 
 <div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=felpsss-leudb&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpsss-leudb&layout=compact&langs_count=7&theme=graywhite&locale=pt-br"/>
+</div>
+
+<h2></h2>
+
+<div align="center">
   <h3>Linguagens que estou utilizando atualmente:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="55"/>
